@@ -6,7 +6,7 @@ class Person {
   }
 
   getFullName() {
-    return this.firstName + ' ' + this.lastName;
+    return 'Dog';
   }
 
 }
